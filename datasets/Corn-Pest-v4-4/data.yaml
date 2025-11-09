@@ -1,0 +1,15 @@
+names:
+- Asian Corn Borer Larvae
+- Asian Corn Borer Moth
+- Fall Armyworm Larvae
+- Fall Armyworm Moth
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: corn-pest-v4-ybizr
+  url: https://universe.roboflow.com/cornpest/corn-pest-v4-ybizr/dataset/4
+  version: 4
+  workspace: cornpest
+test: ../test/images
+train: /content/datasets/Corn-Pest-v4-4/train/images
+val: /content/datasets/Corn-Pest-v4-4/valid/images
