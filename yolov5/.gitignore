@@ -57,6 +57,7 @@ VOC/
 *.pb
 *.onnx
 !runs/train/exp/weights/best.onnx
+!runs/train/exp/weights/best_int8.onnx
 *.engine
 *.mlmodel
 *.mlpackage
